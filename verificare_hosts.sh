@@ -34,3 +34,7 @@ cat /etc/hosts | while read ip nume aliases; do
 
     valideaza_asociere "$nume" "$ip" "$DNS_SERVER_ALES"
 done
+
+
+
+echo "Mihnea has been here"
